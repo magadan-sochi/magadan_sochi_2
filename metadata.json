@@ -1,0 +1,5 @@
+{
+  "name": "Menu Flashcards",
+  "description": "A flashcard application to help staff learn menu items. Cards can be flipped for details and swiped to mark as known or needing review. Data is sourced from a Supabase backend.",
+  "requestFramePermissions": []
+}
